@@ -38,7 +38,7 @@
 }
 
 .glass-card {
-  @apply backdrop-blur-md bg-white/80 border border-white/20 shadow-lg;
+  @apply backdrop-blur-md bg-white/80 border border-white/20 shadow-[0_5px_15px_rgba(0,0,0,0.1)];
 }
 
 .hover-card {
